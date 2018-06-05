@@ -1,0 +1,4 @@
+#Tue Jun 05 18:31:00 IST 2018
+base.0=C\:\\Users\\advait.deshpande\\Desktop\\EZShield New\\demo\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\advait.deshpande\\Desktop\\EZShield New\\demo\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
